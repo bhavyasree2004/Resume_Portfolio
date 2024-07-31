@@ -11,7 +11,6 @@ This is a personal resume portfolio website for Bhavya Sree Munagavalasa. It sho
 - [Contact](#contact)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
 
 ## About
 The "About" section provides a brief introduction to Bhavya Sree Munagavalasa. It highlights her problem-solving abilities, quick learning aptitude, and excellent communication and interpersonal skills. She is seeking opportunities to start her career and contribute to a forward-thinking organization.
